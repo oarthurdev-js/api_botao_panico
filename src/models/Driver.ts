@@ -1,5 +1,8 @@
 import mongoose from "mongoose";
 
+
+
+
 export const driverSchema = new mongoose.Schema(
     {
         id: {type: String},
